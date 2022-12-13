@@ -1,4 +1,5 @@
 npm run build - 리액트 넷플리파이 빌드 명령어
+npm install uuid - 고유한 id를 추가해주는 라이브러리
 
 ## 투두앱
 
